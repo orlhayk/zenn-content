@@ -1,5 +1,5 @@
 ---
-title: "なぜAnthropicはClaudeへの「禁止ルール」を削ったのか"
+title: "なぜOpus 4.7は「禁止ルール」を削ったのか"
 emoji: "🧠"
 type: "tech"
 topics: ["claude", "anthropic", "llm", "ai", "system-prompt"]
